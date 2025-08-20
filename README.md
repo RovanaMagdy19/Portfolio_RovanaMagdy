@@ -11,7 +11,7 @@ This repository contains my professional portfolio, showcasing my skills, projec
 2.  ## About :
       - Hello, I’m Rovana! Iam an aspiring cybersecurity professional with a solid foundation in programming (C++, Python, Java) and hands-on projects. Currently advancing my skills in computer networking and digital security, I am assionate about protecting digital assets, solving real-world challenges, and continuously learning. Beyond the technical side, my journey in leadership roles such as Deputy Campus Director at Hult Prize Egypt and Vice Head of HR at TEDed shaped my teamwork, problem-solving, and organizational skills. I bring perseverance, fairness, and perspective as my core strengths—ensuring I deliver value, integrity, and reliability in every project I take on
 
-3.  ## [Education](education.md) : (Up to date)
+3.  ## [Education & Certifications](education.md) : (Up to date)
 
       - Details of my academic qualifications.
 
