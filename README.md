@@ -46,7 +46,6 @@ If you’re looking for someone reliable, detail-oriented, and passionate about 
 
 ## Contact Information  
 - 📧 Email: rovanamagdy8@gmail.com  
-- 📱 Phone: +20 1204799734  
 - 🔗 LinkedIn: [linkedin.com/in/rovana-magdy](https://www.linkedin.com/in/rovana-magdy)  
 
 Let’s build something impactful together!
