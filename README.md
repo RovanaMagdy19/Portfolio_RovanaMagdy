@@ -39,7 +39,16 @@ This repository contains my professional portfolio, showcasing my skills, projec
 
      - Feedback and endorsements from others.
 
-11. ## [Call to Action and Contact Information](contact.md) : (Up to date)
-     - How to get in touch with me for collaborations or opportunities.
+11. ## Call to Action and Contact Information
+
+I’m always excited to collaborate on new projects, especially in **cybersecurity, software development, and database systems**.  
+If you’re looking for someone reliable, detail-oriented, and passionate about delivering value — let’s connect!  
+
+## Contact Information  
+- 📧 Email: rovanamagdy8@gmail.com  
+- 📱 Phone: +20 1204799734  
+- 🔗 LinkedIn: [linkedin.com/in/rovana-magdy](https://www.linkedin.com/in/rovana-magdy)  
+
+Let’s build something impactful together!
 
 
