@@ -8,10 +8,10 @@ I combine strong technical expertise with leadership and teamwork experience, al
 - **Computer Science Concepts:** Object-Oriented Programming (OOP), Networking Fundamentals, Database Management  
 - **Cybersecurity Knowledge:** Network Security, Ethical Hacking (in progress), Digital Risk Mitigation  
 
-## 🔹 Soft Skills  
+## Soft Skills  
 - **Leadership & Teamwork:** Deputy Campus Director – Hult Prize Egypt, Vice Head of HR – TEDed Beni Suef  
 - **Problem Solving & Perseverance:** Tackling complex coding challenges and real-world technical issues with persistence  
 - **Communication & Community Engagement:** Experienced in coordinating programs, managing teams, and connecting with diverse groups  
 
-✨ I believe in **continuous learning, fairness, and perseverance**, values that shape both my work and my collaborations.  
+I believe in **continuous learning, fairness, and perseverance**, values that shape both my work and my collaborations.  
 Through every project, I bring not just technical skills—but **integrity, reliability, and a genuine passion** for making an impact.  
