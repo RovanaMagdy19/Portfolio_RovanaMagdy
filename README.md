@@ -2,20 +2,14 @@
 
 This repository contains my professional portfolio, showcasing my skills, projects, and experience in cybersecurity and programming.
 
-## Sections:
+# Sections:
 
-1.  # Cover :
-   - *Aspiring Cybersecurity Professional | Programmer (C++ | Python | Java) | Future Tech Leader*
-   - *Cairo, Egypt | 📧 rovanamagdy8@gmail.com | 🔗 linkedin.com/in/rovana-magdy*
+1.  ## Cover :
+      - *Aspiring Cybersecurity Professional | Programmer (C++ | Python | Java) | Future Tech Leader*
+      - *Cairo, Egypt | 📧 rovanamagdy8@gmail.com | 🔗 linkedin.com/in/rovana-magdy*
 
-3.  # About :
-   *Hello, I’m Rovana!
-    I am an aspiring cybersecurity professional with a solid foundation in programming (C++, Python, Java) and hands-on projects. Currently advancing my skills in computer networking and digital security, I am
-    passionate about protecting digital assets, solving real-world challenges, and continuously learning.
-
-    Beyond the technical side, my journey in leadership roles such as Deputy Campus Director at Hult Prize Egypt and Vice Head of HR at TEDed shaped my teamwork, problem-solving, and organizational skills.
-
-    I bring perseverance, fairness, and perspective as my core strengths—ensuring I deliver value, integrity, and reliability in every project I take on*
+3.  ## About :
+      - Hello, I’m Rovana! Iam an aspiring cybersecurity professional with a solid foundation in programming (C++, Python, Java) and hands-on projects. Currently advancing my skills in computer networking and digital security, I am assionate about protecting digital assets, solving real-world challenges, and continuously learning. Beyond the technical side, my journey in leadership roles such as Deputy Campus Director at Hult Prize Egypt and Vice Head of HR at TEDed shaped my teamwork, problem-solving, and organizational skills. I bring perseverance, fairness, and perspective as my core strengths—ensuring I deliver value, integrity, and reliability in every project I take on
 
 5.  # [Education](education.md) : (Up to date)
 
