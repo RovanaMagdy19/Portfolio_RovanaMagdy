@@ -4,11 +4,11 @@ This repository contains my professional portfolio, showcasing my skills, projec
 
 ## Sections:
 
-1.  #**[Cover]** :
+1.  # Cover :
    - *Aspiring Cybersecurity Professional | Programmer (C++ | Python | Java) | Future Tech Leader*
    - *Cairo, Egypt | 📧 rovanamagdy8@gmail.com | 🔗 linkedin.com/in/rovana-magdy*
 
-3.  #**[About]**
+3.  # About :
    *Hello, I’m Rovana!
     I am an aspiring cybersecurity professional with a solid foundation in programming (C++, Python, Java) and hands-on projects. Currently advancing my skills in computer networking and digital security, I am
     passionate about protecting digital assets, solving real-world challenges, and continuously learning.
@@ -17,7 +17,7 @@ This repository contains my professional portfolio, showcasing my skills, projec
 
     I bring perseverance, fairness, and perspective as my core strengths—ensuring I deliver value, integrity, and reliability in every project I take on*
 
-5.  **[Education](education.md)**: (Up to date)
+5.  # [Education](education.md) : (Up to date)
 
     *Details of my academic qualifications.*
 
