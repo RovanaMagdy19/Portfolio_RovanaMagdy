@@ -1,7 +1,7 @@
 # Testimonials  
 
 > "Rovana was an outstanding Deputy Campus Director at Hult Prize Egypt. Her organizational skills and dedication helped us deliver a smooth program that engaged many students."  
-— Hult Prize Egypt Program Coordinator  
+— Cairo Uni Hult Prize Campus Director   
 
 ---
 
