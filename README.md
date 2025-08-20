@@ -4,43 +4,48 @@ This repository contains my professional portfolio, showcasing my skills, projec
 
 ## Sections:
 
-1.  **[Cover](cover.md)**
+1.  #**[Cover]** :
+   - *Aspiring Cybersecurity Professional | Programmer (C++ | Python | Java) | Future Tech Leader*
+   - *Cairo, Egypt | 📧 rovanamagdy8@gmail.com | 🔗 linkedin.com/in/rovana-magdy*
 
-    *A brief introduction and objective statement.*
+3.  #**[About]**
+   *Hello, I’m Rovana!
+    I am an aspiring cybersecurity professional with a solid foundation in programming (C++, Python, Java) and hands-on projects. Currently advancing my skills in computer networking and digital security, I am
+    passionate about protecting digital assets, solving real-world challenges, and continuously learning.
 
-2.  **[About](about.md)**
+    Beyond the technical side, my journey in leadership roles such as Deputy Campus Director at Hult Prize Egypt and Vice Head of HR at TEDed shaped my teamwork, problem-solving, and organizational skills.
 
-    *A summary of my background and career aspirations.*
+    I bring perseverance, fairness, and perspective as my core strengths—ensuring I deliver value, integrity, and reliability in every project I take on*
 
-3.  **[Education](education.md)**
+5.  **[Education](education.md)**: (Up to date)
 
     *Details of my academic qualifications.*
 
-4.  **[Skills](skills.md)**
+6.  **[Skills](skills.md)**
 
     *A comprehensive list of my technical and soft skills.*
 
-5.  **[Work Experience](work_experience.md)**
+7.  **[Work Experience](work_experience.md)**
 
     *Information on my professional work history.*
 
-6.  **[Offered Services](offered_services.md)**
+8.  **[Offered Services](offered_services.md)**
 
     *A description of the services I can provide.*
 
-7.  **[Projects](projects.md)**
+9.  **[Projects](projects.md)**
 
     *Showcase of my key projects and their details.*
 
-8.  **[Achievements](achievements.md)**
+10.  **[Achievements](achievements.md)**
 
     *Highlights of my accomplishments and certifications.*
 
-9.  **[Testimonials](testimonials.md)**
+11.  **[Testimonials](testimonials.md)**
 
     *Feedback and endorsements from others.*
 
-10. **[Call to Action and Contact Information](contact.md)**
+11. **[Call to Action and Contact Information](contact.md)**
     *How to get in touch with me for collaborations or opportunities.*
 
 
